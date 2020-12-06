@@ -1,0 +1,16 @@
+C:\Users\balno\Desktop\Wallpappers\WallPapper\bin\Debug\net5.0\WallPapper.exe
+C:\Users\balno\Desktop\Wallpappers\WallPapper\bin\Debug\net5.0\WallPapper.deps.json
+C:\Users\balno\Desktop\Wallpappers\WallPapper\bin\Debug\net5.0\WallPapper.runtimeconfig.json
+C:\Users\balno\Desktop\Wallpappers\WallPapper\bin\Debug\net5.0\WallPapper.runtimeconfig.dev.json
+C:\Users\balno\Desktop\Wallpappers\WallPapper\bin\Debug\net5.0\WallPapper.dll
+C:\Users\balno\Desktop\Wallpappers\WallPapper\bin\Debug\net5.0\ref\WallPapper.dll
+C:\Users\balno\Desktop\Wallpappers\WallPapper\bin\Debug\net5.0\WallPapper.pdb
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.csprojAssemblyReference.cache
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.AssemblyInfoInputs.cache
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.AssemblyInfo.cs
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.csproj.CoreCompileInputs.cache
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.dll
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\ref\WallPapper.dll
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.pdb
+C:\Users\balno\Desktop\Wallpappers\WallPapper\obj\Debug\net5.0\WallPapper.genruntimeconfig.cache
